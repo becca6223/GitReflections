@@ -1,0 +1,7 @@
+**What happens when you initialize a repository? Why do you need to do it?
+
+It will show that you create a git repository and with a .git file. You do this because it can keep different version of your files. 
+
+**How is the stagin area different from the working directory and the repository? What value do you think it offers? 
+
+Staging area is a stage that the user specify what files the user would like to commit into repo. It let user decide what files to commit, which gives user more flexibile space. 
